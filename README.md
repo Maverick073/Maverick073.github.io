@@ -2,7 +2,7 @@
 
 
 🎓 Computer Science Graduate | 🤖 Android Developer | 💼 SDE 1 @ Comcast  
-📍 Chennai, India | 📧 s.sudhar2003@gmail.com | [LinkedIn](www.linkedin.com/in/sudharshanan-s28) | [GitHub](https://github.com/maverick073)
+📍 Chennai, India | 📧 s.sudhar2003@gmail.com | [LinkedIn](linkedin.com/in/sudharshanan-s28) | [GitHub](https://github.com/maverick073)
 
 ---
 
@@ -52,8 +52,8 @@ _SASTRA University_ (2021 – 2025)
 
 ## 🚀 Projects
 
-### 📱 Android App: Credit Card Fraud Detection
-Built an Android app that uses KNN and Linear Regression models to detect fraudulent transactions.
+### 📱 ML model: Credit Card Fraud Detection
+Built an ML model that uses KNN and Linear Regression models to detect fraudulent transactions.
 
 ### 🔗 URL Shortener
 Created a REST API and Android front-end for shortening long URLs into shareable short links.
