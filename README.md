@@ -2,7 +2,7 @@
 
 
 🎓 Computer Science Graduate | 🤖 Android Developer | 💼 SDE 1 @ Comcast  
-📍 Chennai, India | 📧 s.sudhar2003@gmail.com | [LinkedIn](https://linkedin.com/in/sudharshanan-s28) | [GitHub](https://github.com/maverick073)
+📍 Chennai, India | 📧 s.sudhar2003@gmail.com | [LinkedIn](www.linkedin.com/in/sudharshanan-s28) | [GitHub](https://github.com/maverick073)
 
 ---
 
