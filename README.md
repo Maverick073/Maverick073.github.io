@@ -1,7 +1,5 @@
 # Sudharshanan Sankar
 
-# <img src="images/sudharshanan.png" alt="Sudharshanan Sankar" width="80" style="border-radius: 50%; vertical-align: middle;" />
-
 
 🎓 Computer Science Graduate | 🤖 Android Developer | 💼 SDE 1 @ Comcast  
 📍 Chennai, India | 📧 s.sudhar2003@gmail.com | [LinkedIn](https://linkedin.com/in/sudharshanan-s28) | [GitHub](https://github.com/maverick073)
